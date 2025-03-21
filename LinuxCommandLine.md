@@ -54,5 +54,4 @@ In a Terminal try typing in the following commands in order, and see if you can 
 
  cd /
  cd /bin/..
- cd /bin
 ```
